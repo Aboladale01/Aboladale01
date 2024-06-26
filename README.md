@@ -3,4 +3,4 @@
 - 🫶🫵 I love you!!
 - 🦅🦜 strength and wisdom 
 - 😍🥰learning quickly 
--⭐🌟 shine like stars
+- ⭐🌟shine like stars
