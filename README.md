@@ -4,7 +4,8 @@
 - 🦅🦜 strength and wisdom 
 - 😍🥰learning quickly 
 - ⭐🌟shine like stars
+
 <h1></h1>
-- *Create project*
+- Create project
 - An application 
 - Multimedia-app
