@@ -6,6 +6,6 @@
 - ⭐🌟shine like stars
 
 <h></h>
-<b><h1>Create a project</h1>
+<b><h1>Creating a project</h1>
 <h2> An application</h2>
 <h2>Multimedia-app</h2>
