@@ -11,6 +11,6 @@
 <h2>Multimedia-app</h2>
 
 
-<hr> ~~~ </hr><p>my intention</p>
-<hr> ••• </hr><p>about the project</p>
-<hr><p>making a new multi-purpose app</p>
+ </hr><p>my intention</p>
+ <p>about the project</p>
+<p>making a new multi-purpose app</p></hr>
