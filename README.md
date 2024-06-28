@@ -14,3 +14,4 @@
  </hr><p>my intention</p>
  <p>about the project</p>
 <p>making a new multi-purpose app</p></hr>
+<p>The features and functions of the application include chatting and messaging (javascript & Python), video call, audios and videos editing, pictures editing,(FFmpeg, Sox & OpenCV).we planning to make it all around application which can be used on Windows, Mac, Linux, iOS and Android. 
