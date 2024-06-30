@@ -16,8 +16,10 @@
 <p>making a new multi-purpose app</p></hr>
 <p>The features and functions of the application include chatting and messaging (javascript & Python), video call, audios and videos editing, pictures editing,(FFmpeg, Sox & OpenCV).we planning to make it all around application which can be used on Windows, Mac, Linux, iOS and Android. 
 
- **Need many experienced to join**
-***everyone adding his own input***
-***to make it meaningful and stand out***
-***everyday activities and tasks be to complete***
-- [{javaScript/C++/Python/HTML}]-
+
+<b/><h1>Need many experienced to join</h1>
+<ul><h3>everyone adding his own input</h3>
+<li>to make it meaningful and stand out should be done collectively</li>
+<li>everyday activities and tasks should be how to complete at pointed time</li>
+
+- [(JavaScript/C++/Python/HTML)] -
