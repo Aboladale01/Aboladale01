@@ -15,3 +15,9 @@
  <p>about the project</p>
 <p>making a new multi-purpose app</p></hr>
 <p>The features and functions of the application include chatting and messaging (javascript & Python), video call, audios and videos editing, pictures editing,(FFmpeg, Sox & OpenCV).we planning to make it all around application which can be used on Windows, Mac, Linux, iOS and Android. 
+
+ **Need many experienced to join**
+***everyone adding his own input***
+***to make it meaningful and stand out***
+***everyday activities and tasks be to complete***
+- [{javaScript/C++/Python/HTML}]-
