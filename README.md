@@ -1,4 +1,4 @@
-#about Meet 
+hi#about Meet 
 - 💐♥️ I'm happy,feel loved!
 - 🫶🫵 I love you!!
 - 🦅🦜 strength and wisdom 
@@ -22,3 +22,9 @@
 <li>to make it meaningful and stand out should be done collectively</li>
 <li>everyday activities and tasks should be how to complete and finish at pointed time</li></ul>
 
+ffmpeg -i input1.wav -i input2.wav -i input3.wav -i input4.wav \
+  -filter_complex '[0:0][1:0][2:0][3:0]concat=n=4:v=0:a=1[out]' \
+  -map '[out]' output.wav
+input1.wav
+
+ffmpeg -i input.wav -f sox - | sox -t sox - -b 16 -C 8 output.flac channels 2 rate 44.1k
