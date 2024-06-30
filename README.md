@@ -20,6 +20,6 @@
 <b/><h1>Need many experienced to join</h1>
 <ul><h3>everyone adding his own input</h3>
 <li>to make it meaningful and stand out should be done collectively</li>
-<li>everyday activities and tasks should be how to complete at pointed time</li>
+<li>everyday activities and tasks should be how to complete at pointed time</li></ul>
 
-- [(JavaScript/C++/Python/HTML)] -
+###C++ 
