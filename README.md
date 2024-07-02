@@ -28,3 +28,14 @@ ffmpeg -i input1.wav -i input2.wav -i input3.wav -i input4.wav \
 input1.wav
 
 ffmpeg -i input.wav -f sox - | sox -t sox - -b 16 -C 8 output.flac channels 2 rate 44.1k
+
+
+git clone https://git.codecrafters.io/64a6a562f5fdf2a5 codecrafters-redis-python
+cd codecrafters-redis-python
+
+
+git commit --allow-empty -m 'test'
+git push origin master
+
+
+https://git.codecrafters.io/64a6a562f5fdf2a5
