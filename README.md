@@ -30,8 +30,8 @@ input1.wav
 ffmpeg -i input.wav -f sox - | sox -t sox - -b 16 -C 8 output.flac channels 2 rate 44.1k
 
 
-git clone https://git.codecrafters.io/64a6a562f5fdf2a5 codecrafters-redis-python
-cd codecrafters-redis-python
+git clone https://git.codecrafters.io/64a6a562f5fdf2a5 codecrafters-s-python
+cd codecrafters-s-python
 
 
 git commit --allow-empty -m 'test'
