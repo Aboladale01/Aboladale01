@@ -37,9 +37,15 @@ hi#about Meet
 
  
  <b>Python</n>                                      
-     
-                                      import EbookLib                                    from EbookLib Import EPUB                                                        book =                               EPUB.read_epub('path/to/your.epub')                                                           
-#Access metadata, Chapters, Images,      etc.,                              
+   
+<p>import EbookLib</p>
+<p>from EbookLib Import EPUB</p>
+<p>book =</p>
+<p>EPUB.read_epub('path/to/your.epub')</p>
+<p>#Access metadata, Chapters, Images, etc.</p>
+
+
+                                                                                                                                                                                                                                 
                                      
-                                      |
-                               |    
+                                    
+                       
