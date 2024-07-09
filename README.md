@@ -36,7 +36,7 @@ hi#about Meet
 <li>2.  Reading an EPUB file. To read an EPUB file, you can use the following code scrippet</li></ul>
 
  
- <b>Python</n>                                      
+               ~~PYTHON~~                 
    
 <p>import EbookLib</p>
 <p>from EbookLib Import EPUB</p>
