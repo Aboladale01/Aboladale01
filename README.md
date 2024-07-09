@@ -22,20 +22,26 @@ hi#about Meet
 <li>to make it meaningful and stand out should be done collectively</li>
 <li>everyday activities and tasks should be how to complete and finish at pointed time</li></ul>
 
-ffmpeg -i input1.wav -i input2.wav -i input3.wav -i input4.wav \
-  -filter_complex '[0:0][1:0][2:0][3:0]concat=n=4:v=0:a=1[out]' \
-  -map '[out]' output.wav
-input1.wav
+<b><h1>New Project An Ebook App</h1>
+<p>Creation of an Ebook reader app in Python is a fantastic and fascinating project</p>
+<p>For handling EPUB2/EPUB3 files, you can use the EbookLib Library</p>
+<p>It allows you to read and write EPUB files programmatically</p>
+<p>Here's how you can get started:</p>
+<p></p>
+<ul><li>1. Install Ebook: You can install Ebook using pip:</li>
+         __________________
+         |pip install Ebook|
+         ------------------
 
-ffmpeg -i input.wav -f sox - | sox -t sox - -b 16 -C 8 output.flac channels 2 rate 44.1k
+<li>2.  Reading an EPUB file. To read an EPUB file, you can use the following code scrippet</li></ul>
 
-
-git clone https://git.codecrafters.io/64a6a562f5fdf2a5 codecrafters-s-python
-cd codecrafters-s-python
-
-
-git commit --allow-empty -m 'test'
-git push origin master
-
-
-https://git.codecrafters.io/64a6a562f5fdf2a5
+________________________________________
+|  Python                               |       
+|_______________________________________|         
+|                                       |
+|   import EbookLib                     |              
+|.  from EbookLib Import EPUB           |                                        |.  book =                              |
+|   EPUB.read_epub('path/to/your.epub') |                                   |   #Access metadata, Chapters, Images, | |    etc.,                              |
++---------------------------------------+                                     
+                                      |
+                               |    
