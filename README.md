@@ -30,20 +30,7 @@ hi#about Meet
 <p></p>
 <ul><li>1. Install Ebook: You can install Ebook using pip:</li>
    
-         ~~pip install Ebook~~
-     
-
-<li>2.  Reading an EPUB file. To read an EPUB file, you can use the following code scrippet</li></ul>
-
- 
-               ~~PYTHON~~                 
-   
-<p>import EbookLib</p>
-<p>from EbookLib Import EPUB</p>
-<p>book =</p>
-<p>EPUB.read_epub('path/to/your.epub')</p>
-<p>#Access metadata, Chapters, Images, etc.</p>
-
+         
 
                                                                                                                                                                                                                                  
                                      
