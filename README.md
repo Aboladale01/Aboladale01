@@ -43,7 +43,7 @@ def get_bot_response(user_input):
   * **Action:** "Venture" says you are moving forward and making money.
   * **Unique:** It’s a strong "Brandable" keyword that is easy to turn into a logo.
 
-**Would you like me to show you how to add a "Crown" emoji 👑 next to the name in your website header so it looks like a real Kingventure logo?** 😍👑🚀
+** Add a "Crown" emoji 👑 next to the name in your website header so it looks like a real Kingventure logo?** 😍👑🚀
                                                                                                                                                                                                                       
                                      
                          
