@@ -1,7 +1,7 @@
 <p>Hello! "Meet Aboladale"<p/>
 <p>💐♥️👍  I'm happy,feel loved!!!<p>
 <p>🫶🫵🙏  I love you!!!<p>
-<p>🦅🦜  strength and wisdom!!!<p>
+<p>🦅🦜🌹 strength and wisdom!!!<p>
 <p>❤️😍🥰 learning quickly!!!<p>
 <p>⭐🌹🌟 shine like stars<p>
 
