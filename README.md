@@ -1,9 +1,9 @@
 <p>Hello! "Meet Aboladale"<p/>
-- 💐♥️ I'm happy,feel loved!
-- 🫶🫵 I love you!!
-- 🦅🦜 strength and wisdom 
-- 😍🥰learning quickly 
-- ⭐🌟shine like stars
+<p>💐♥️👍  I'm happy,feel loved!!!<p>
+<p>🫶🫵🙏  I love you!!!<p>
+<p>🦅🦜  strength and wisdom!!!<p>
+<p>❤️😍🥰 learning quickly!!!<p>
+<p>⭐🌹🌟 shine like stars<p>
 
 That is a powerful, high-energy name\! Merging **King** and **Venture** into a single word creates a brand that sounds dominant, successful, and adventurous.
 
