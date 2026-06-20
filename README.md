@@ -1,9 +1,4 @@
-<p>Hello! "Meet Aboladale"<p/>
-<p>💐♥️👍  I'm happy,feel loved!!!<p>
-<p>🫶🫵🙏  I love you!!!<p>
-<p>🦅🦜🌹 strength and wisdom!!!<p>
-<p>❤️😍🥰 learning quickly!!!<p>
-<p>⭐🌹🌟 shine like stars<p>
+<b><h/>ATOLAGBE KING'S VENTURE HQ <h/>
 
 That is a powerful, high-energy name\! Merging **King** and **Venture** into a single word creates a brand that sounds dominant, successful, and adventurous.
 
